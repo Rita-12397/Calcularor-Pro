@@ -1,0 +1,48 @@
+.main_div{
+  display: flex;
+  flex-direction: column;
+  background-color: darksalmon;
+  width: 400px;
+  height: 665px;
+  margin-left: 35%;
+}
+.content{
+  display: flex;
+  flex-direction: row;
+  margin-left: 27%;
+
+}
+.conten{
+  display: flex;
+  flex-direction: row;
+  margin-left: 25%;
+  margin-top: 3%;
+
+}
+.counter{
+  text-align: center;
+  background-color: aquamarine;
+  padding: 3%;
+  width: 175px;
+  margin-top: 50%;
+  margin-left: 27%;
+
+}
+
+.btn1{
+  text-align: center;
+  background-color: rgb(133, 83, 146);
+  padding: 2%; 
+  width: 50px;
+  color: aliceblue;
+
+}
+.btn2{
+  text-align: center;
+  background-color: rgb(133, 83, 146);
+  padding: 2%;
+  width: 50px;
+  color: aliceblue;
+
+
+}
